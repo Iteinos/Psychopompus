@@ -5,7 +5,7 @@ Components:
 
 MICROCONTROLLER: Prefered Arduino or ESP8266.
 
-GEIGER-MUELLER MODULE w/ 400V power supply: Only included parameters for M4011 or SI3BG. 
+GEIGER-MUELLER MODULE w/ 400V power supply: Only included parameters for SI3BG. 
 
 SCREEN: 1602 LCD display w/ I2C module, 0802 & 2004 also works.
 
