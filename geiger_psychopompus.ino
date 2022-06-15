@@ -31,7 +31,7 @@ const int esp = 0;
 const int esp = 1;
 #include <ESP8266WiFi.h>
 #endif
-const float conversion_index = 0.006500;
+const float conversion_index = 0.00468; //0.00468 for SI3BG, 0.0065 for M4011
 
 /* Reference:
    For the conversion from Counts per Minute to microSieverts per Hour,
