@@ -1,5 +1,6 @@
-# Psychopompus
+# Psychopompus 渡靈
 Geiger-mueller Counter based on Arduino/ESP8266
+基於Arduino/樂鑫ESP8266的蓋格穆勒計數器
 
 Components:
 
