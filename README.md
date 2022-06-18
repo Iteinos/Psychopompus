@@ -12,10 +12,9 @@ Geiger-mueller Counter based on Arduino/ESP8266
 *Caveat: In the case you are not using a module designed for arduino, connect the input signal from geiger tube to a voltage-divider before feeding it to your chips.
 Ignore this warning if you know what you are doing.*
 
-**Connection schematics:**
-This is the minimal circuit setup if you are using available modules.
-![psyp](https://user-images.githubusercontent.com/56753892/174328762-9a3f501c-7d19-4d1e-8f35-57b50257870b.jpg)
+**Connection schematics & Screen layout description:**
+1. This is the minimal circuit setup if you are using available modules.
 
-**Screen layout description:**
-If you didn't tweak my code, this is what would appear on screen.
-![psyp2d](https://user-images.githubusercontent.com/56753892/174340073-daeaf4d0-1874-43e3-a61e-d637d7b00c09.jpg)
+2. If you didn't tweak my code, this is what would appear on screen.
+
+![psypinstr](https://user-images.githubusercontent.com/56753892/174457381-e9d3a523-cb67-4b9f-93d2-a46712cf4147.jpg)
